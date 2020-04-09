@@ -6,3 +6,5 @@ DEBUG:__main__:2020-04-09 10:21:22.352399 - Files successfully
 ERROR:__main__:2020-04-09 10:21:53.727284 - Failed to convert files: [Errno 2] No such file or directory: 'UNASPVIRTUAL.txt'
 DEBUG:__main__:2020-04-09 10:22:35.280820 - Files successfully 
 ERROR:__main__:2020-04-09 10:23:00.474057 - Failed to convert files: not enough values to unpack (expected 3, got 2)
+DEBUG:__main__:2020-04-09 10:49:37.809571 - Files successfully 
+DEBUG:__main__:2020-04-09 11:27:09.918092 - Files successfully 
